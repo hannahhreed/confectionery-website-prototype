@@ -33,3 +33,12 @@ body {
   margin: 0;
   background-color: #C71585;
 }
+
+nav ul {
+  font-family: 1.125rem;
+  font-family: "Lora", sans-serif;
+}
+
+ul {
+  display: inline-block;
+}
